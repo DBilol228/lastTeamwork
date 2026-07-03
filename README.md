@@ -30,8 +30,3 @@
 ## 🚀 Быстрый старт (Разработка)
 
 Если вы разработчик или QA-инженер нашей команды, вот как запустить проект локально:
-
-1. Клонируйте репозиторий:
-   `bash
-   git clone [https://github.com/gmc-clinic/digital-platform.git](https://github.com/gmc-clinic/digital-platform.git)
-   cd digital-platform
